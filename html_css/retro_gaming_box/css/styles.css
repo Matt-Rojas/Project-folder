@@ -1,0 +1,199 @@
+
+
+.logo {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    height: 40%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: magenta;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+    display: block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.navbar a:hover{
+    background-color: blue;
+}
+
+.navbar li{
+    float: left
+}
+
+.HugeSale{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px solid;
+    border-width: 6px;
+    overflow: hidden;
+}
+
+.HugeSale img{
+    width: 50%;
+    float: left;
+    margin-right: 10px;
+}
+
+.HugeSale h2{
+    text-align: center;
+}
+
+.HugeSale p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.HugeSale ul{
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+h3{
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.footer{
+    height: auto;
+    width: 100%;
+}
+
+.img1{
+    height: auto;
+    width: 50%;
+    float: left;
+    display: block;
+}
+
+.img2{
+    height: auto;
+    width: 50%;
+    display: block;
+}
+
+.about_page p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.subscription_tier_list h3{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.subscription_tier_1 img{
+    height: auto;
+    width: 50%;
+    float:left
+}
+
+.subscription_tier_1{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 5px solid;
+    border-color: darkviolet;
+    border-width: 6px;
+    overflow: hidden;
+}
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+}
+
+.subscription_tier_2 img{
+    height: auto;
+    width: 40%;
+    padding-right: 10px;
+    float:left
+}
+
+.subscription_tier_2{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 5px solid;
+    border-color: rgb(8, 4, 240);
+    border-width: 6px;
+    overflow: hidden;
+}
+
+.subscription_tier_3 img{
+    height: auto;
+    width: 40%;
+    padding-right: 40px;
+    float:left
+}
+
+.subscription_tier_3{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 5px solid;
+    border-color: rgb(5, 143, 0);
+    border-width: 6px;
+    overflow: hidden;
+}
+
+.Contact_US{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 5px solid;
+    border-color: rgb(211, 0, 116);
+    border-width: 6px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.Contact_US p{
+    font-size: 30px;
+}
+
+.Contact_US h5{
+    font-size: 30px;
+}
+
+.Contact_US ul{
+    font-size: 30px;
+    list-style-type: none;
+}
